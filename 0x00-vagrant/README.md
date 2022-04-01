@@ -1,0 +1,1 @@
+uname command prints the OS name
